@@ -799,6 +799,7 @@ canvas{
 	margin: 0;
 	font-size: 22px;
 	margin-bottom: 15px;
+	border-bottom: 3px solid #00003f;
 	padding-bottom: 10px;
 }
 
